@@ -15,10 +15,6 @@
     gap: 10px;
 }
 
-
-
-
-jfvhelrhbvfleq
 .box {
     background-color: green;
     border-radius: 12px;
@@ -35,4 +31,16 @@ jfvhelrhbvfleq
 .box2 {
     grid-column:span 2 ;
     grid-row: span 2;
+}
+
+table {
+    border: 1px solid black;
+}
+
+td{
+    border: 1px solid red;
+}
+
+tr{
+    border: 1px solid blue;
 }
